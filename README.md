@@ -14,7 +14,7 @@ Sou físico e mestre em Astronomia pela USP, com forte atuação em análise de 
 
 ## 💼 Projetos em Destaque
 
-- 🔭 [Quimiodinâmica de Sobredensidades Estelares](https://github.com/rilufi/sobredensidade-triangulum)  
+- 🔭 [Quimiodinâmica de Sobredensidades Estelares](https://rilufi.github.io/triand.html)  
   Análise com dados do APOGEE e GRACES usando Python. Publicado no *Astrophysical Journal*.
 
 - 📊 [Exploração de Dados com Python](https://github.com/rilufi/eda-kaggle-public-data)  
