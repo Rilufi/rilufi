@@ -17,8 +17,8 @@ Sou físico e mestre em Astronomia pela USP, com forte atuação em análise de 
 - 🔭 [Quimiodinâmica de Sobredensidades Estelares](https://rilufi.github.io/triand.html)  
   Análise com dados do GRACES/Gemini usando Python. Publicado no *Astrophysical Journal*.
 
-- 📊 [Exploração de Dados com Python](https://github.com/rilufi/eda-kaggle-public-data)  
-  Notebooks com EDA de datasets públicos como Titanic e vendas.
+- 📊 [Exploração de Dados com Python](https://github.com/rilufi/pythovid)  
+  Scripts com EDA de datasets públicos sobre o COVID-19.
 
 - 🤖 [Bots de Conteúdo Automatizado](https://github.com/rilufi)  
   Publicação automática de imagens de gatos, cachorros, temperatura e APOD da NASA.
@@ -28,7 +28,7 @@ Sou físico e mestre em Astronomia pela USP, com forte atuação em análise de 
 ## 📫 Contato
 
 - 🔗 [Site pessoal / Portfólio](https://rilufi.github.io)
-- 🧑‍💼 [LinkedIn](https://linkedin.com/in/seulinkedin)
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/yuri-abuchaim-1472bb1a1/)
 - 🧪 [Lattes](http://lattes.cnpq.br/6100327519689283)
 
 ---
