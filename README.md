@@ -9,7 +9,8 @@ Sou físico e mestre em Astronomia pela USP, com forte atuação em análise de 
 - **Análise Científica**: Processamento de dados astronômicos
 
 ## 🌟 Projetos em Destaque
-- [APOD Bots](https://rilufi.github.io/pt/apodinsta): Sistema automatizado que publica a foto astronômica do dia
+- [APOD Bots](https://rilufi.github.io/pt/apod): Sistema automatizado que publica a foto astronômica do dia
+- [Pet Bots](https://rilufi.github.io/pt/petbot): Sistema automatizado que publica fotos de cães e gatos
 - [Botoronga](https://rilufi.github.io/pt/clima): Monitor climático de São Paulo
 - [Quimiodinâmica Estelar](https://rilufi.github.io/pt/triand): Pesquisa publicada no Astrophysical Journal
 
@@ -32,7 +33,8 @@ I'm a physicist with a Master's in Astronomy from USP, specializing in scientifi
 - **Scientific Analysis**: Astronomical data processing
 
 ## 🌟 Featured Projects
-- [APOD Bots](https://rilufi.github.io/en/apodinsta): Automated system that publishes the astronomy picture of the day
+- [APOD Bots](https://rilufi.github.io/en/apod): Automated system that publishes the astronomy picture of the day
+- [Pet Bots](https://rilufi.github.io/en/petbot): Automated system that publishes cat and dog pictures
 - [Botoronga](https://rilufi.github.io/en/clima): São Paulo weather monitor
 - [Stellar Chemodynamics](https://rilufi.github.io/en/triand): Research published in Astrophysical Journal
 
