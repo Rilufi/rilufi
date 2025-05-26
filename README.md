@@ -9,9 +9,9 @@ Sou físico e mestre em Astronomia pela USP, com forte atuação em análise de 
 - **Análise Científica**: Processamento de dados astronômicos
 
 ## 🌟 Projetos em Destaque
-- [APOD Bots](https://github.com/rilufi/apodinsta): Sistema automatizado que publica a foto astronômica do dia
-- [Botoronga](https://github.com/rilufi/botoronga): Monitor climático de São Paulo
-- [Quimiodinâmica Estelar](https://doi.org/10.3847/1538-4357/acc9bc): Pesquisa publicada no Astrophysical Journal
+- [APOD Bots](https://rilufi.github.io/pt/apodinsta): Sistema automatizado que publica a foto astronômica do dia
+- [Botoronga](https://rilufi.github.io/pt/clima): Monitor climático de São Paulo
+- [Quimiodinâmica Estelar](https://rilufi.github.io/pt/triand): Pesquisa publicada no Astrophysical Journal
 
 ## 📫 Como me Encontrar
 - [Portfólio](https://rilufi.github.io)
@@ -32,12 +32,12 @@ I'm a physicist with a Master's in Astronomy from USP, specializing in scientifi
 - **Scientific Analysis**: Astronomical data processing
 
 ## 🌟 Featured Projects
-- [APOD Bots](https://github.com/rilufi/apodinsta): Automated system that publishes the astronomy picture of the day
-- [Botoronga](https://github.com/rilufi/botoronga): São Paulo weather monitor
-- [Stellar Chemodynamics](https://doi.org/10.3847/1538-4357/acc9bc): Research published in Astrophysical Journal
+- [APOD Bots](https://rilufi.github.io/en/apodinsta): Automated system that publishes the astronomy picture of the day
+- [Botoronga](https://rilufi.github.io/en/clima): São Paulo weather monitor
+- [Stellar Chemodynamics](https://rilufi.github.io/en/triand): Research published in Astrophysical Journal
 
 ## 📫 How to Find Me
-- [Portfolio](https://rilufi.github.io)
+- [Portfolio](https://rilufi.github.io/en/index)
 - [LinkedIn](https://linkedin.com/in/yuri-abuchaim-1472bb1a1)
 - [Lattes CV](http://lattes.cnpq.br/6100327519689283)
 - Email: yuri.abuchaim@gmail.com
